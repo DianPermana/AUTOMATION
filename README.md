@@ -1,3 +1,3 @@
 # AUTOMATION
 
-Test Automation using selenium Jmeter
+here example script test automation testing using selenium driver on Jmeter
